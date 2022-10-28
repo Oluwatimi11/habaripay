@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0 10%;
+  background-color: #fff;
+}
+
+:root {
+  font-size: 16px;
+  font-family: "Roboto" !important;
+  line-height: 1.5;
+  --black: #000;
+  --white: #fff;
+  --red: red;
+  --primary: #0ca352;
+  --light-primary: #d8f7d6;
+  --secondary: #4db8ff;
+  --tertiary: #4518e6;
+  --light-tertiary: #d1c7f4;
+  --tertinary: #e67518;
+  --light-tertinary: #fae2d3;
+  --dark-secondary: #0461f6;
+  --trans-secondary: #cde7f8;
+  --light-gray: #f1f1f1;
+  --light-gray-2: #d9d9d9;
+  --background--primary: #e5e5e5;
+  --background--secondary: #f5f5f5;
+  --background--primary-opac: rgba(0, 0, 0, 0.04);
+  --light-black: #333;
+  --mini-border: 1px solid #edeeef;
+  --border: 3px solid #edeeef;
+  --border-1: 2px solid var(--dark-secondary);
+  --border-4: 3px solid #0ca352;
+  --border-2: 8px solid #9ed2f5;
+  --border-3: 3px solid #a29ef5;
+  --border-5: 3px solid #f5bd9e;
+  --border-6: 3px solid #48e258;
+  --border-7: 3px solid #9ed2f5;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
